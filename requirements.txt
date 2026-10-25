@@ -1,0 +1,9 @@
+numpy==1.25.2
+pandas==2.0.3
+scipy==1.11.1
+matplotlib==3.7.2
+scikit-learn==1.7.2
+catboost==1.2.10
+nbformat==5.10.4
+notebook
+ipykernel
